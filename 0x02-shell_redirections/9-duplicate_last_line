@@ -1,0 +1,2 @@
+l --lines=1 iacta >> iacta 
+:wq
